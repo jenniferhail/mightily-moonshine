@@ -1,4 +1,4 @@
 <?php
         echo "wansx";
-        echo "gpjgn";
+        echo "wxdec";
 ?>
