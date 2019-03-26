@@ -1,4 +1,4 @@
 <?php
         echo "wansx";
-        echo "oglap";
+        echo "mafqi";
 ?>
